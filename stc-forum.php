@@ -2,15 +2,14 @@
 
 /**
  * Plugin Name:       STC FORUM
- * Plugin URI:
- * Description:       Forum for Resource Hub (SaveTheChildren)
+ * Plugin URI:        https://github.com/fabriziodeltufo/stc-forum
+ * Description:       Forum for Resource Hub Web Site (SaveTheChildren)
  * Version:           1.0
  * Requires PHP:      7.3.8
- * Author:            Save The Children
- * Author URI:        https://www.savethechildren.org.uk
+ * Author:            Fabrizio Del Tufo
+ * Author URI:        https://github.com/fabriziodeltufo
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:        https://example.com/my-plugin/
  * Text Domain:       stcForum
  * Domain Path:       /languages
  */
